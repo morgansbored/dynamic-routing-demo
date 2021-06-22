@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-routing-demo",
+  "version": "1.0.0",
+  "description": "A simple demo of dynamic routing",
+  "main": "index.js",
+  "scripts": {
+    "serve": "es-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Pearse",
+  "license": "ISC",
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  },
+  "dependencies": {
+    "lit-element": "^2.5.1",
+    "router-slot": "^1.5.4"
+  }
+}

@@ -10,7 +10,8 @@
   "author": "Morgan Pearse",
   "license": "ISC",
   "devDependencies": {
-    "es-dev-server": "^2.1.0"
+    "es-dev-server": "^2.1.0",
+    "gh-pages": "^3.2.3"
   },
   "dependencies": {
     "lit-element": "^2.5.1",
